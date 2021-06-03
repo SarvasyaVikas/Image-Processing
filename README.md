@@ -1,1 +1,1 @@
-# Image-Processing
+This project deals with the processing of images using OpenCV. The purpose of this project is to process images to prepare them for deep learning neural networks so that this kind of object detection can be applied in the real world.
